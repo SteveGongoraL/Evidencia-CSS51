@@ -1,2 +1,2 @@
 # Evidencia-CSS51
-Evidencia con estilos de CSS.
+Evidencia de codigo HTML con estilos de CSS.
