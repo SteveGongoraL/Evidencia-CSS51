@@ -9,13 +9,20 @@ body{
 
 
 
-
 /* Formatos */
 html{
     scroll-behavior: smooth;
 }
 mark{
     background-color: #ee82ee;
+}
+a, a:visited{
+    color:#007bff;
+    text-decoration: none;
+}
+a:hover{
+    color: whitesmoke;
+    transition: all 0.4s linear;
 }
 .centrado{
     display:block;margin:auto;
@@ -40,14 +47,6 @@ mark{
     font-size: 30px;
     font-family:Comic Sans MS;
     color: #007bff;
-}
-a, a:visited{
-    color:#007bff;
-    text-decoration: none;
-}
-a:hover{
-    color: whitesmoke;
-    transition: all 0.4s linear;
 }
 #numero-columnas{
     column-count: 3;
@@ -203,8 +202,6 @@ td:hover{
 th:hover{
     background: #1a1919;
 }
-
-
 
 /* Colores television */
 #arrow{
